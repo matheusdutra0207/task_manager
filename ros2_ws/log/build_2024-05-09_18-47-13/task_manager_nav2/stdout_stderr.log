@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/task_manager_nav2/task_manager_nav2.egg-info/PKG-INFO
+writing dependency_links to ../../build/task_manager_nav2/task_manager_nav2.egg-info/dependency_links.txt
+writing entry points to ../../build/task_manager_nav2/task_manager_nav2.egg-info/entry_points.txt
+writing requirements to ../../build/task_manager_nav2/task_manager_nav2.egg-info/requires.txt
+writing top-level names to ../../build/task_manager_nav2/task_manager_nav2.egg-info/top_level.txt
+reading manifest file '../../build/task_manager_nav2/task_manager_nav2.egg-info/SOURCES.txt'
+writing manifest file '../../build/task_manager_nav2/task_manager_nav2.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+running install_data
+running install_egg_info
+removing '/ros2_ws/install/task_manager_nav2/lib/python3.10/site-packages/task_manager_nav2-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/task_manager_nav2/task_manager_nav2.egg-info to /ros2_ws/install/task_manager_nav2/lib/python3.10/site-packages/task_manager_nav2-0.0.0-py3.10.egg-info
+running install_scripts
+Installing task_manager script to /ros2_ws/install/task_manager_nav2/lib/task_manager_nav2
+writing list of installed files to '/ros2_ws/build/task_manager_nav2/install.log'

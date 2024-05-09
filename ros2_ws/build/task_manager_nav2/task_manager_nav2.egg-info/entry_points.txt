@@ -1,0 +1,3 @@
+[console_scripts]
+task_manager = task_manager_nav2.node:main
+
